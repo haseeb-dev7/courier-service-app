@@ -2,7 +2,7 @@
 
 ## Overview
 
-A courier service application prototype designed and developed as part of my Level 3 Computing coursework to provide users with a simple and intuitive service management experience.
+A courier service application prototype designed and developed as part of my Level 3 Computing coursework to provide users with a simple and intuitive service management experience. Full website is accessible through the link in 'about' section.
 
 ## Technologies Used
 
