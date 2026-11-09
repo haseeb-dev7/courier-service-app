@@ -2,8 +2,9 @@
 
 ## Overview
 
-A courier service application prototype designed and developed as part of my Level 3 Computing coursework to provide users with a simple and intuitive service management experience. Full website is accessible through the link in 'about' section.
+A courier service application prototype designed and developed as part of my Level 3 Computing coursework to provide users with a simple and intuitive service management experience. 
 
+View the application: https://studio.code.org/projects/applab/650de84d-cf74-4e10-9928-8555f60ef4f8
 ## Technologies Used
 
 - Code.org App Lab
