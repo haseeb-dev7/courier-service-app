@@ -2,37 +2,25 @@
 
 ## Overview
 
-This project is a courier service application prototype developed as part of my Level 3 Computing: Application Development coursework. The aim of the project was to design and create an intuitive application that allows users to interact with courier services through a simple and user-friendly interface.
-
-The project was awarded a **Distinction**, having successfully met all assessment criteria.
-
----
+A courier service application prototype designed and developed as part of my Level 3 Computing coursework to provide users with a simple and intuitive service management experience.
 
 ## Technologies Used
 
 - Code.org App Lab
 - JavaScript
 - UI/UX Design Principles
-- Flowcharts
-- Wireframes
-- Graphical Mock-ups
 
----
+## Features
 
-## Key Features
-
-- User-friendly interface
-- Interactive navigation system
-- Functional buttons and screens
-- Structured user journeys
-- Responsive and accessible design principles
-- Prototype courier booking and service features
-
----
+- Interactive user interface
+- Functional navigation system
+- User-focused design
+- Working application prototype
+- Accessible and intuitive user journey
 
 ## Planning & Design
 
-Before development, I planned the application using a range of industry-standard design techniques, including:
+Before development, I created:
 
 - Wireframes
 - Graphical Mock-ups
@@ -40,41 +28,16 @@ Before development, I planned the application using a range of industry-standard
 - Mood Boards
 - Mind Maps
 
-These planning activities helped me design the application's structure, user experience and navigation before development began.
+## What I Learned
 
----
+This project improved my understanding of:
 
-## Development Process
-
-I followed the Software Development Lifecycle by:
-
-1. Analysing the client requirements.
-2. Planning the application structure and user interface.
-3. Designing wireframes and graphical prototypes.
-4. Developing the application using Code.org App Lab.
-5. Testing the application functionality.
-6. Refining and improving the solution based on feedback and testing outcomes.
-
----
-
-## Skills Demonstrated
-
-Through this project I developed and strengthened skills in:
-
-- Software Development
+- Software Development Lifecycle
+- UI/UX Design
 - Programming Logic
 - Problem Solving
-- UI/UX Design
-- Testing and Evaluation
-- Project Planning
-- Analytical Thinking
-
----
+- Testing and Refinement
 
 ## Outcome
 
-Successfully achieved a **Distinction** in Level 3 Computing: Application Development.
-
-This project reinforced my interest in software engineering and developing technology solutions that solve real-world problems.
-
----
+Successfully achieved a Distinction for the completed project.
